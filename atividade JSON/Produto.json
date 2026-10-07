@@ -1,8 +1,0 @@
-{
-"Produto": {
-        "nome": "IPhone",
-        "preco": "30.000",
-        "quantidade": 30,
-        "disponivel": true
-    }
-}

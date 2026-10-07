@@ -1,0 +1,20 @@
+{
+    "Aluno": {
+        "nome": "Gabriela",
+        "idade": "18",
+        "notas": 10,
+        "aprovado": true,
+    "Filme": {
+        "titulo": "Diario de Paixão",
+        "ano": 2004,
+        "diretor": "Nick Cassavetes",
+        "genero": true,
+    "Produto": {
+        "nome": "IPhone",
+        "preco": "30.000",
+        "quantidade": 30,
+        "disponivel": true
+    }
+}
+    }
+}
